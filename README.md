@@ -1,4 +1,4 @@
-# Iris Dataset Predictor : Project Overview
+# Iris Dataset Specie Predictor : Project Overview
 
 * Predicted the specie of iris flowers based some of their features
 
@@ -10,7 +10,7 @@ ___
 ### Code and Resources Used
 Python Version: 3.8
 Packages: pandas, numpy, matplotlib, seaborn, sklearn
-Dataset: [Weather Temperature Dataset](https://www.kaggle.com/budincsevity/szeged-weather "Gotten from Kaggle)
+Dataset: Iris Dataset
 
 ___
 ### Features
