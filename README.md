@@ -8,9 +8,9 @@
 
 ___
 ### Code and Resources Used
-Python Version: 3.8
-Packages: pandas, numpy, matplotlib, seaborn, sklearn
-Dataset: Iris Dataset
+* Python Version: 3.8
+* Packages: pandas, numpy, matplotlib, seaborn, sklearn
+* Dataset: Iris Dataset
 
 ___
 ### Features
